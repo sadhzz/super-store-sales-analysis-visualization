@@ -10,6 +10,8 @@ DAX (Data Analysis Expressions) - Used for calculated columns and measures
 
 SOURCE - Got the dataset from Techtip'24 Aditi Gupta Data Analytics Course.
 
-Dashboard :
+INSIGHTS - we can easily know the information by looking at the dashboard. we can identify customer behaviors, on which day the sales are maximum (weekends/weekdays), In which country what type of sales are more, What are the most returned products.
+
+Dashboard : https://github.com/sadhzz/super-store-sales-analysis-visualization/blob/main/snapshot%20of%20store%20sales%20dashboard.png
 
 
