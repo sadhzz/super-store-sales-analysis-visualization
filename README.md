@@ -1,7 +1,8 @@
 # super-store-sales-analysis-visualization
 
 Store Sales Analytics : Store sales insights and dashboard
-An intractive data visualization built to explore the Super Store sales data - focusing on their products, customer behavior, their worldwide market, profits. Number of returned products.
+
+An interactive data visualization built to explore the Super Store sales data - focusing on their products, customer behavior, their worldwide market, profits. Number of returned products.
 
 The dashboard was built using the following tools and technologies:
 1.Power BI Desktop- Data visualization tool for report creation
